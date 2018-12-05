@@ -1,7 +1,7 @@
 <template>
   <div class="manage">
     <el-card class="box-card">
-      <div class="box-card-top">Web虚拟桌面</div>
+      <div class="box-card-top">Joseph Tools</div>
       <el-input v-model="username" placeholder="用户名"></el-input>
       <el-input v-model="password" placeholder="密码" type="password"></el-input>
       <div class="box-card-select">
