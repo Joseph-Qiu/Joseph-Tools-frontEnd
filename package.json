@@ -20,7 +20,6 @@
     "exif-js": "^2.3.0",
     "github-markdown-css": "^2.10.0",
     "highlight.js": "^9.13.1",
-    "jquery": "1.11.0",
     "jwerty": "^0.3.2",
     "leancloud-storage": "^3.10.0",
     "lodash": "^4.17.10",
