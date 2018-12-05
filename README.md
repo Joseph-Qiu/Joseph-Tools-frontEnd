@@ -1,7 +1,8 @@
 # Joseph-Tools-frontEnd
+#### 服务端使用Django开发api：
+> https://github.com/RainesQiu/Joseph-Tools-backEnd
 
-
-## Build Setup
+## 构建步骤
 
 ``` bash
 # install dependencies
